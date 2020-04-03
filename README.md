@@ -31,7 +31,7 @@ Here we can use the user-item matrix again to provide recommendations by perform
 
 
 # Future Work
-Perform Content Based recommendations using NLP methods; try other decomposition methods.
+Perform Content Based recommendations using NLP methods; start with simple Count Vectorizer to tokenize the article contents. Using the dot-product, we can compute similarity between articles' contents. 
 
 # Acknowledgements
 [Udacity's](https://www.udacity.com) Data Science Nanodegree program
